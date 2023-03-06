@@ -1,4 +1,4 @@
-# PROCESSADOR DE TEXTO :iphone: :heavy_check_mark: :snake:
+# PROCESSADOR DE TEXTO :speech_balloon: :dart: :bookmark_tabs:
 ##### [!!!] Tire um resumo de seus textos, e cheque se existe alguma informação valiosa nele
 
 ## O QUE É?
