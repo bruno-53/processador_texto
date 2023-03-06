@@ -1,0 +1,32 @@
+TOTAL DE PALAVRAS DO TEXTO: 2100
+TOTAL DE SEQUÊNCIAS NUMÉRICAS ENCONTRADOS NO TEXTO: 15
+---------------------------------
+- 10 PALAVRAS QUE MAIS APARECEM -
+---------------------------------
+TOP 1 -- MARIA : 21 
+TOP 2 -- DIALOGO : 20 
+TOP 3 -- PERSONAGENS : 15 
+TOP 4 -- PRAIA : 11 
+TOP 5 -- LEITOR : 11 
+TOP 6 -- EXEMPLO : 9 
+TOP 7 -- JOAO : 9 
+TOP 8 -- DISCURSO : 8 
+TOP 9 -- HISTORIA : 8 
+TOP 10 -- ESTAVA : 8 
+---------------------------------------------------------
+- INFORMAÇÕES SOBRE AS SEQUÊNCIAS NUMÉRICAS ENCONTRADAS -
+---------------------------------------------------------
+Esse talvez seja um celular com DDD 14991933643
+Esse talvez seja um celular com DDD 21998734382
+Esse talvez seja um tel fixo com DDD: 1435232296
+Esse talvez seja um celular sem DDD: 991933642
+Esse talvez seja um telefone fixo sem DDD: 35232296
+Esse é um CPF válido encontrado no texto: 234.515.010-66
+Esse é um CPF válido encontrado no texto: 840.584.060-54
+Esse é um CPF válido encontrado no texto: 260.268.310-88
+Esse é um CEP válido encontrado no texto: 78058-847, da cidade de Cuiabá - MT
+Esse é um CEP válido encontrado no texto: 44091-456, da cidade de Feira de Santana - BA
+Esse é um CEP válido encontrado no texto: 77024-714, da cidade de Palmas - TO
+Esse é um CNPJ válido encontrado no texto: 54.174.404/0001-20
+Esse é um CNPJ válido encontrado no texto: 63.361.264/0001-90
+Esse é um CNPJ válido encontrado no texto: 08.135.418/0001-18
